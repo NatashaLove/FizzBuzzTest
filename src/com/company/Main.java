@@ -58,7 +58,7 @@ public class Main {
 
             if (number)
                // System.out.println();
-                System.out.println(i);
+            { System.out.println(i);}
 
             /*
             if ((i%2)==0 && (i%3)==0 && (i%5)==0) {
